@@ -6,7 +6,7 @@ https://mega.nz/file/To1T1YKC#bixMzzew96INUUHwsgFqDCeeo3I1XcfTowEld1cg3UY
 
 - Βασικές Μεθοδολογίες για την επίλυση ασκήσεων
 
-<http://www.askisopolis.gr/upload/842_4727Mεθοδολογίες Ασκήσεων Γ Λυκείου Κατεύθυνσης.pdf>
+[http://www.askisopolis.gr/upload/842_4727Mεθοδολογίες Ασκήσεων Γ Λυκείου Κατεύθυνσης.pdf]
 
 - Βιντεομαθήματα γραμμικής άλγεβρας
 
