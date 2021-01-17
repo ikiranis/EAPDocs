@@ -4,13 +4,7 @@
 
 http://www.psounis.gr/plh20.html
 
-- Βιβλίο του D. Hunter (στα αγγλικά)
-
-https://mega.nz/file/2g9jDKaD#ezhhhdM_ToKnDSrR-GcMliRny1tWYy9uqBawFfMP2QA
-
-- Βιβλία διακριτών μαθηματικών για την πλη20
-
-https://mega.nz/file/q9txmICR#6upN9j2HrPj0RrbqE_5HUmX2b1mpoPu2aKarDgH1DOA
+- David J. Hunter - Essentials Of Discrete Mathematics (2015, Jones & Bartlett Learning)
 
 - A Gentle Introduction To Graph Theory
 
