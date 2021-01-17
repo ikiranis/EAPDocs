@@ -1,4 +1,4 @@
-# ΠΛΗ12
+# ΠΛΗ12 [Μαθηματικά για  Πληροφορική Ι](https://www.eap.gr/education/undergraduate/computer-science/topics/#mathimatika_pliroforiki_1)
 
 - [Σχολικά βιβλία μαθηματικών για πλη12](https://mega.nz/file/To1T1YKC#bixMzzew96INUUHwsgFqDCeeo3I1XcfTowEld1cg3UY)
 

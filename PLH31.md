@@ -1,4 +1,4 @@
-# ΠΛΗ31
+# ΠΛΗ31 [Τεχνητή Νοημοσύνη – Εφαρμογές](https://www.eap.gr/education/undergraduate/computer-science/topics/#texniti_noimosini)
 
 - [Ψούνης ΠΛΗ31](http://www.psounis.gr/plh31.html)
 

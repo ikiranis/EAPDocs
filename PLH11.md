@@ -1,4 +1,4 @@
-# ΠΛΗ11
+# ΠΛΗ11 [Αρχές Τεχνολογίας Λογισμικού](https://www.eap.gr/education/undergraduate/computer-science/topics/#arxes_logismikou)
 
 - [Σειρά μαθηματών για SQL (Ψούνης)](https://www.youtube.com/watch?v=fSZ0W5_3fyM&list=PLLMmbOLFy25GgxqcuEhVfPAV4x_3VcLNb)
 

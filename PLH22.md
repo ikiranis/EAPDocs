@@ -1,4 +1,4 @@
-# ΠΛΗ22
+# ΠΛΗ22 [Βασικά ζητήματα Δικτύων Η/Υ](https://www.eap.gr/education/undergraduate/computer-science/topics/#vasika_zitimata_diktion)
 
 - Υπολογισμός CRC αλγόριθμου (Error correction) [1](https://www.youtube.com/watch?v=iwj8ZgyzqZk), [2](https://www.youtube.com/watch?v=izG7qT0EpBw)
 

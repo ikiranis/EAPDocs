@@ -1,4 +1,4 @@
-# ΠΛΗ20
+# ΠΛΗ20 [Διακριτά Μαθηματικά και Μαθηματική Λογική](https://www.eap.gr/education/undergraduate/computer-science/topics/#diakrita_mathimatika)
 
 - [Ψούνης ΠΛΗ20](http://www.psounis.gr/plh20.html)
 

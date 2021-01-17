@@ -1,4 +1,4 @@
-# ΠΛΗ30
+# ΠΛΗ30 [Θεμελιώσεις Επιστήμης Η/Υ](https://www.eap.gr/education/undergraduate/computer-science/topics/#themeliwseis_epistim_yp)
 
 - [Ψούνης ΠΛΗ30](http://www.psounis.gr/plh30.html)
 

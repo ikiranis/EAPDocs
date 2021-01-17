@@ -1,4 +1,4 @@
-# ΠΛΗ24
+# ΠΛΗ24 [Σχεδιασμός Λογισμικού](https://www.eap.gr/education/undergraduate/computer-science/topics/#sxediasmos_logismikoi)
 
 - [Αντικειμενοστραφής Προγραμματισμός, Εφαρμογές με χρήση της γλώσσας προγραμματισμού JAVA](https://courses.e-ce.uth.gr/MEPA21/doku.php?id=toc)
 

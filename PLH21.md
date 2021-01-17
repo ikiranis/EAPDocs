@@ -1,4 +1,4 @@
-# ΠΛΗ21
+# ΠΛΗ21 [Ψηφιακά Συστήματα](https://www.eap.gr/education/undergraduate/computer-science/topics/#psifiaka_sistimata)
 
 - [Διαλέξεις στα Ψηφιακά Συστήματα](https://openclass.teiwm.gr/courses/BA-G111/)
 
