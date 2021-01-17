@@ -25,3 +25,5 @@
 - [ΠΛΗ30](https://github.com/ikiranis/EAPDocs/blob/main/PLH30.md)
 
 - [ΠΛΗ31](https://github.com/ikiranis/EAPDocs/blob/main/PLH31.md)
+
+**Για οποιαδήποτε προσθήκη ή αλλαγή, ανοίξτε issue ή κάντε pull request**
