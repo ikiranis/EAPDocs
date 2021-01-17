@@ -18,4 +18,3 @@ https://cdn.discordapp.com/attachments/754780917402304512/772020319292620810/31_
 
 - Artificial intelligence a modern approach (3rd edition)
 
-https://mega.nz/file/EJ5iCDAD#GhcWar9cot4UZa9dA5t33LMK_Q9G018dJzjMCJPT9_k
