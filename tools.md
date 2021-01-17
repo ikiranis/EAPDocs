@@ -1,57 +1,33 @@
 # Γενικά χρήσιμα εργαλεία
 
-- MS Office
+- [MS Office](https://www.microsoft.com/el-gr/microsoft-365/microsoft-office)
 
-https://www.microsoft.com/el-gr/microsoft-365/microsoft-office
+- [Libre Office](https://www.libreoffice.org/)
 
-- Libre Office
+- [OnlyOffice](https://www.onlyoffice.com/)
 
-https://www.libreoffice.org/
+- [WPS Office](https://www.wps.com/)
 
-- OnlyOffice
+- [MathType (addon για το word, για γράψιμο εξισώσεων)](http://www.dessci.com/en/products/mathtype/)
 
-https://www.onlyoffice.com/
+- [Addon για το Word, για γράψιμο εξισώσεων](https://appsource.microsoft.com/el-gr/product/office/WA104380646?src=office&tab=Overview)
 
-- WPS Office 
+- [Cheat sheet για τον equation editor του MS Word (τα ίδια παίζουν και σε onlyoffice)](https://www.cs.bgu.ac.il/~khitron/Equation%20Editor.pdf)
 
-https://www.wps.com/
+- [diagrams.net (πρώην draw.io)](https://app.diagrams.net/)
 
-- MathType (addon για το word, για γράψιμο εξισώσεων)
+- [Δημιουργία διαγραμμάτων Gantt (ΠΛΗ11)](http://gantt.apps4net.eu/)
 
-http://www.dessci.com/en/products/mathtype/
+- Εργαλεία για σχεδίαση λογικών κυκλωμάτων
+  
+    - [circuitverse](https://circuitverse.org/)
 
-- Addon για το Word, για γράψιμο εξισώσεων
+    - [logic](https://logic.ly/)
 
-https://appsource.microsoft.com/el-gr/product/office/WA104380646?src=office&tab=Overview
+    - [cburch.com](http://www.cburch.com/logisim/el/index.html)
 
-- Cheat sheet για τον equation editor του MS Word (τα ίδια παίζουν και σε onlyoffice)
+- [SpeedCrunch (Calculator)](http://speedcrunch.org/)
 
-https://www.cs.bgu.ac.il/~khitron/Equation%20Editor.pdf
+- [Calculator](https://www.calculator.net/)
 
-- diagrams.net (πρώην draw.io)
-
-https://app.diagrams.net/
-
-- Δημιουργία διαγραμμάτων Gantt (ΠΛΗ11)
-
-http://gantt.apps4net.eu/
-
-- Εργαλεία για λογικά κυκλώματα
-
-https://circuitverse.org/
-
-https://logic.ly/
-
-http://www.cburch.com/logisim/el/index.html
-
-- SpeedCrunch (Calculator)
-
-http://speedcrunch.org/
-
-- Calculator 
-
-https://www.calculator.net/
-
-- Mysql Workbench (εργαλείο σχεδίασης βάσεων δεδομένων)
-
-https://www.mysql.com/products/workbench/
+- [Mysql Workbench (εργαλείο σχεδίασης βάσεων δεδομένων)](https://www.mysql.com/products/workbench/)

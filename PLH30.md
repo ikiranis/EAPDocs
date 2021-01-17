@@ -1,8 +1,6 @@
 # ΠΛΗ30
 
-- Ψούνης ΠΛΗ30
-
-http://www.psounis.gr/plh30.html
+- [Ψούνης ΠΛΗ30](http://www.psounis.gr/plh30.html)
 
 - Kleinberg/Tardos - Algorithm Design
 
@@ -10,8 +8,8 @@ http://www.psounis.gr/plh30.html
 
 - Αλγόριθμοι & Πολυπλοκότητα - Αντιμετωπίζοντας την NP-πληρότητα (Διάλεξη)
 
-    - Μέρος 1ο https://www.youtube.com/watch?v=Jdrc6TQFfdU
+    - [Μέρος 1ο](https://www.youtube.com/watch?v=Jdrc6TQFfdU)
 
-    - Μέρος 2ο https://www.youtube.com/watch?v=HWbSY-Arp1o
+    - [Μέρος 2ο](https://www.youtube.com/watch?v=HWbSY-Arp1o)
 
-    - Μέρος 3ο https://www.youtube.com/watch?v=ZtA-tGobsss
+    - [Μέρος 3ο](https://www.youtube.com/watch?v=ZtA-tGobsss)

@@ -26,4 +26,10 @@
 
 - [ΠΛΗ31](https://github.com/ikiranis/EAPDocs/blob/main/PLH31.md)
 
+## Contribution
+
 **Για οποιαδήποτε προσθήκη ή αλλαγή, ανοίξτε issue ή κάντε pull request**
+
+## Disclaimer
+
+**Το τι θα χρησιμοποιήσει ο κάθε φοιτητής από όλο αυτό το υλικό, είναι στη δική του κρίση**
