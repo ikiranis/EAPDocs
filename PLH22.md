@@ -6,10 +6,6 @@ https://www.youtube.com/watch?v=iwj8ZgyzqZk
 
 https://www.youtube.com/watch?v=izG7qT0EpBw
 
-- Λύσεις για τα προβλήματα του βιβλίου Computer Networking, A Top-Down Approach
-
-https://cdn.discordapp.com/attachments/645587720860598282/775812853965783080/Solutions20Manual20for20Computer20Networking20A20TopDown20Approach2C207th20Edition.609668037.pdf
-
 - Δίκτυα Υπολογιστών (βιντεομαθήματα για την ύλη της πρώτης εργασίας)
 
 https://eclass.hmu.gr/modules/video/?course=TP141
