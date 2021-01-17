@@ -48,7 +48,7 @@ http://www.calcfun.com/calc-35-epilysi-exisosis-2ou-vathmou-deyterovathmia.html
 
 - Κλάσματα/απλοποίηση
 
-https://www.calculator.net/fraction-calculator.html?t1=-2&op=*&t2=1&b1=1&b2=3&ctype=1&x=51&y=16
+hhttps://www.calculator.net/fraction-calculator.html
 
 - Παράγωγοι
 
@@ -64,7 +64,7 @@ https://www.mathpapa.com/factoring-calculator/
 
 - Εύρεση ορίων
 
-https://www.emathhelp.net/calculators/calculus-1/limit-calculator/?f=x%5E2%2B2x%2B5&var=&val=1&dir=&steps=on
+https://www.emathhelp.net/calculators/calculus-1/limit-calculator/
 
 - Εύρεση χαρακτηριστικού πολυώνυμου
 
