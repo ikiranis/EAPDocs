@@ -22,8 +22,6 @@
 
 - [Πράξεις Πινάκων κ.α.](https://elsenaju.eu/Calculator/)
 
-- [Β'βάθμια εξίσωση, Διακρίνουσα, κ.α.](https://www.calcfun.com/calc-35-epilysi-exisosis-2ou-vathmou-deyterovathmia.html)
-
 - [Εύρεση Χαρακτηριστικού Πολυώνυμου](https://www.emathhelp.net/calculators/linear-algebra/characteristic-polynomial-calculator/)
 
 - [Linear Algebra Toolkit](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
