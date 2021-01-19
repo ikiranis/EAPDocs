@@ -51,6 +51,16 @@
 - [Joomla](https://www.joomla.org/)
 - [Django](https://www.djangoproject.com/)
 
+### Databases
+
+- [MySQL](https://www.mysql.com/)
+- [MariaDB](https://mariadb.org/)
+- [MongoDB](https://www.mongodb.com/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [SQLite](https://www.sqlite.org/index.html)
+- [Oracle](https://www.oracle.com/database/)
+- [MS SQL Server](https://www.microsoft.com/en-us/sql-server)
+
 ## Tools
 
 - [Linux](https://linuxjourney.com/)
