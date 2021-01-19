@@ -4,27 +4,33 @@
 
 Περιλαμβάνονται σημειώσεις, εργαλεία, βιντεομαθήματα κτλ
 
-- [Γενικά χρήσιμα εργαλεία](https://github.com/ikiranis/EAPDocs/blob/main/tools.md)
+## Γενικά
 
-- [ΠΛΗ](https://github.com/ikiranis/EAPDocs/blob/main/PLH.md)
+- [Εργαλεία](https://github.com/ikiranis/EAPDocs/blob/main/general/tools.md)
 
-- [ΠΛΗ10](https://github.com/ikiranis/EAPDocs/blob/main/PLH10.md)
+- [ΠΛΗ](https://github.com/ikiranis/EAPDocs/blob/main/general/PLH.md)
 
-- [ΠΛΗ11](https://github.com/ikiranis/EAPDocs/blob/main/PLH11.md)
+## Θεματικές ενότητες
 
-- [ΠΛΗ12](https://github.com/ikiranis/EAPDocs/blob/main/PLH12.md)
+- [ΠΛΗ10](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH10.md) Εισαγωγή στην Πληροφορική
 
-- [ΠΛΗ20](https://github.com/ikiranis/EAPDocs/blob/main/PLH20.md)
+- [ΠΛΗ11](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH11.md) Αρχές Τεχνολογίας Λογισμικού
 
-- [ΠΛΗ21](https://github.com/ikiranis/EAPDocs/blob/main/PLH21.md)
+- [ΠΛΗ12](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH12.md) Μαθηματικά για Πληροφορική Ι
 
-- [ΠΛΗ22](https://github.com/ikiranis/EAPDocs/blob/main/PLH22.md)
+- [ΠΛΗ20](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH20.md) Διακριτά Μαθηματικά και Μαθηματική Λογική
 
-- [ΠΛΗ24](https://github.com/ikiranis/EAPDocs/blob/main/PLH24.md)
+- [ΠΛΗ21](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH21.md) Ψηφιακά Συστήματα
 
-- [ΠΛΗ30](https://github.com/ikiranis/EAPDocs/blob/main/PLH30.md)
+- [ΠΛΗ22](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH22.md) Βασικά ζητήματα Δικτύων Η/Υ
 
-- [ΠΛΗ31](https://github.com/ikiranis/EAPDocs/blob/main/PLH31.md)
+- [ΠΛΗ24](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH24.md) Σχεδιασμός Λογισμικού
+
+- [ΠΛΗ30](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH30.md) Θεμελιώσεις Επιστήμης Η/Υ
+
+- [ΠΛΗ31](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH31.md) Τεχνητή Νοημοσύνη – Εφαρμογές
+
+## [Μετά το ΕΑΠ](https://github.com/ikiranis/EAPDocs/blob/main/after/index.md)
 
 ## Contribution
 
