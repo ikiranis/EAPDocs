@@ -44,6 +44,8 @@
 ### Frameworks
 
 - [Laravel](https://laravel.com/)
+- [Yii](https://www.yiiframework.com/)
+- [Symphony](https://symfony.com/)
 - [Wordpress](https://wordpress.org/)
 - [Drupal](https://www.drupal.org/)
 - [Joomla](https://www.joomla.org/)
