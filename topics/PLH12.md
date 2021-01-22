@@ -40,7 +40,7 @@
 
 - [Απειροστικός Λογισμός (σειρά βιντεομαθημάτων)](https://www.youtube.com/playlist?list=PLZxtSYPyVJ76Rw6ppyzyNXZStQzAcaYT-)
 
-- [Μαθηματικός Λογισμός](https://eclass.aegean.gr/courses/ICSD113/)
+- [Μαθηματικός Λογισμός (Πανεπιστήμιο Αιγαίου)](https://eclass.aegean.gr/courses/ICSD113/)
 
 ## Βοηθήματα
 
