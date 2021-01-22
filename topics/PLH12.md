@@ -42,6 +42,8 @@
 
 - [Μαθηματικός Λογισμός (Πανεπιστήμιο Αιγαίου)](https://eclass.aegean.gr/courses/ICSD113/)
 
+- [Μαθηματικά Γ' Λυκείου κατεύθυνσης (Συναρτήσεις, όρια)](https://www.youtube.com/playlist?list=PLZA-Wu2BXhF7d_HWEMWOdWUcommLqqMQi)
+
 ## Βοηθήματα
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
