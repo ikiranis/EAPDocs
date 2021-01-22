@@ -36,6 +36,8 @@
 
 - [Εύρεση Ορίων](https://www.emathhelp.net/calculators/calculus-1/limit-calculator/)
 
+- [Απειροστικός Λογισμός (σειρά βιντεομαθημάτων)](https://www.youtube.com/playlist?list=PLZxtSYPyVJ76Rw6ppyzyNXZStQzAcaYT-)
+
 ## Βοηθήματα:
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
