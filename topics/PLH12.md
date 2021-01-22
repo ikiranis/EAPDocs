@@ -28,6 +28,8 @@
 
 - [Linear Algebra Toolkit](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
 
+- [Γραμμική Άλγεβρα Ι](https://opencourses.uoa.gr/courses/MATH12/)
+
 ## Λογισμός μιας Μεταβλητής
 
 - [Παράγωγοι](https://www.derivative-calculator.net/)
@@ -37,6 +39,8 @@
 - [Εύρεση Ορίων](https://www.emathhelp.net/calculators/calculus-1/limit-calculator/)
 
 - [Απειροστικός Λογισμός (σειρά βιντεομαθημάτων)](https://www.youtube.com/playlist?list=PLZxtSYPyVJ76Rw6ppyzyNXZStQzAcaYT-)
+
+- [Μαθηματικός Λογισμός](https://eclass.aegean.gr/courses/ICSD113/)
 
 ## Βοηθήματα
 
