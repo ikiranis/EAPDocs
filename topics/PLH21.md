@@ -27,3 +27,5 @@
 - [Λογική Σχεδίαση (Βέργος)](https://www.youtube.com/playlist?list=PLEoVI1kCsu8nGGfMwwXc-X51_TZpNvFeF)
 
 - [Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
+
+- [Λογικά κυκλώματα (Γιαννακόπουλος, Παναγιώτης)](https://repository.kallipos.gr/handle/11419/5499)
