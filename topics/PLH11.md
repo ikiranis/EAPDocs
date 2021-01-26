@@ -8,7 +8,9 @@
 
 - [Βάσεις Δεδομένων (Χαροκόπειο Πανεπιστήμιο)](https://eclass.hua.gr/courses/DIT105/)
 
-- [Σειρά μαθηματών για SQL (Ψούνης)](https://www.youtube.com/watch?v=fSZ0W5_3fyM&list=PLLMmbOLFy25GgxqcuEhVfPAV4x_3VcLNb)
+- [Βάσεις Δεδομένων Ι (Πανεπιστήμιο Μακεδονίας)](http://opencourses.uom.gr/courses/efarmosmenhs-plhroforikhs/199-baseis-dedomenon-i/enothtes)
+
+- [Σειρά μαθημάτων για SQL (Ψούνης)](https://www.youtube.com/watch?v=fSZ0W5_3fyM&list=PLLMmbOLFy25GgxqcuEhVfPAV4x_3VcLNb)
 
 ## Λειτουργικά Συστήματα
 
