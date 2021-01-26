@@ -8,7 +8,7 @@
 
 - [Βασικές Μεθοδολογίες για την επίλυση ασκήσεων](http://www.askisopolis.gr/upload/842_4727M%CE%B5%CE%B8%CE%BF%CE%B4%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B5%CF%82%20%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CF%89%CE%BD%20%CE%93%20%CE%9B%CF%85%CE%BA%CE%B5%CE%AF%CE%BF%CF%85%20%CE%9A%CE%B1%CF%84%CE%B5%CF%8D%CE%B8%CF%85%CE%BD%CF%83%CE%B7%CF%82.pdf)
 
-- [Μαθηματικά για την Πληροφορική Ι (παλιό site του ΕΑΠ για την ΠΛΗ12)](http://edu.eap.gr/pli/pli12/students.htm)
+- [Μαθηματικά για την Πληροφορική Ι (παλιό site του ΕΑΠ για την ΠΛΗ12)](http://edu.eap.gr/pli/pli12)
 
 ## Γραμμική Άλγεβρα
 
