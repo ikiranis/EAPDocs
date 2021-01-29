@@ -29,3 +29,9 @@
 - [Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 
 - [Λογικά κυκλώματα (Γιαννακόπουλος, Παναγιώτης)](https://repository.kallipos.gr/handle/11419/5499)
+
+- [Binary, inverse and complement codes](https://planetcalc.com/747/)
+
+- [Number base converter](https://www.rapidtables.com/convert/number/index.html)
+
+- [Calculator](https://www.rapidtables.com/calc/math/base-calculator.html)
