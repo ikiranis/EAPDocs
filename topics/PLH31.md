@@ -10,3 +10,7 @@
 
 - Artificial intelligence a modern approach (3rd edition)
 
+- [Neural networks (3blue1brown)](https://www.3blue1brown.com/neural-networks)
+
+- [Βαθιά Νευρωνικά Δίκτυα από το Μηδέν (Nihilist's Lab)](https://www.youtube.com/playlist?list=PLdw84HG7OJvZm2Y3q4fyvcly6Rt-Uu5HM)
+
