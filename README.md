@@ -22,6 +22,8 @@
 
 - [ΠΛΗ21](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH21.md) Ψηφιακά Συστήματα
 
+- [ΠΛΗΨΙ](https://github.com/ikiranis/EAPDocs/blob/main/topics/ΠΛΗΨΙ.md) Εργαστήριο Ψηφιακών Συστημάτων
+
 - [ΠΛΗ22](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH22.md) Βασικά ζητήματα Δικτύων Η/Υ
 
 - [ΠΛΗ24](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH24.md) Σχεδιασμός Λογισμικού
