@@ -11,3 +11,5 @@
 - [Signals and Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhG6s3jYIU48CqsT5cyiDTO)
 
 - [Computer Networks](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
+
+- [Ψηφιακά Συστήματα Ι (ΤΕΙ Δυτικής Ελλάδας)](http://delos.teiwest.gr/opendelos/search?crs=57c1e949)
