@@ -24,7 +24,9 @@
 
 - [Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)
 
-- [Λογικά κυκλώματα (Γιαννακόπουλος, Παναγιώτης)](https://repository.kallipos.gr/handle/11419/5499)
+- [Λογικά κυκλώματα (Γιαννακόπουλος Παναγιώτης)](https://repository.kallipos.gr/handle/11419/5499)
+
+- [Ψηφιακή Σχεδίαση Ι (Πανεπιστήμιο Ιωαννίνων)](https://www.cs.uoi.gr/~kabousia/DigitalDesign%CE%99GR.htm)
 
 - [Binary, inverse and complement codes](https://planetcalc.com/747/)
 
@@ -37,5 +39,7 @@
 - [Διαλέξεις για Αρχιτεκτονική Υπολογιστών](https://www.youtube.com/playlist?list=PLl2orJCvV3b4_RDSj4110lcAsHl-rlc1e)
 
 - [Αρχιτεκτονική Υπολογιστών (ΕΚΠΑ)](http://architecture.di.uoa.gr/About.html)
+
+
 
 ## Μικροεπεξεργαστές
