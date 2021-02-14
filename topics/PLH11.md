@@ -12,6 +12,8 @@
 
 - [Σειρά μαθημάτων για SQL (Ψούνης)](https://www.youtube.com/watch?v=fSZ0W5_3fyM&list=PLLMmbOLFy25GgxqcuEhVfPAV4x_3VcLNb)
 
+- [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+
 ## Λειτουργικά Συστήματα
 
  
