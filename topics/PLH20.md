@@ -4,10 +4,13 @@
 
 - David J. Hunter - Essentials Of Discrete Mathematics (2015, Jones & Bartlett Learning)
 
-- [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+- [Calculator για προτασιακή λογική](https://www.erpelstolz.at/gateway/formular-uk-zentral.html)
 
 - [Master Discrete Mathematics: Sets, Math Logic, and More](https://freecoursesite.com/1-master-discrete-mathematics-sets-math-logic-and-more/)
 
-- [Calculator για προτασιακή λογική](https://www.erpelstolz.at/gateway/formular-uk-zentral.html)
+## Θεωρία γραφημάτων
 
+- [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+  
+- [Αλγοριθμική θεωρία γραφημάτων (βιβλίο)](https://repository.kallipos.gr/handle/11419/2067)
 
