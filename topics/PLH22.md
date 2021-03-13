@@ -13,3 +13,5 @@
 - [Computer Networks](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
 - [Ψηφιακά Συστήματα Ι (ΤΕΙ Δυτικής Ελλάδας)](http://delos.teiwest.gr/opendelos/search?crs=57c1e949)
+
+- [Introduction to Information Theory](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory)

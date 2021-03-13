@@ -42,4 +42,6 @@
 
 - [Αρχιτεκτονική Η/Υ ΙΙ (Νίκος Πετρέλλης)](https://www.youtube.com/watch?v=OOOsLuRujPE)
 
+- [IEEE 754 Calculator](http://weitz.de/ieee/)
+
 ## Μικροεπεξεργαστές
