@@ -36,10 +36,10 @@
 
 ## Αρχιτεκτονική Υπολογιστών
 
-- [Διαλέξεις για Αρχιτεκτονική Υπολογιστών](https://www.youtube.com/playlist?list=PLl2orJCvV3b4_RDSj4110lcAsHl-rlc1e)
+- [Διαλέξεις για Αρχιτεκτονική Υπολογιστών (Μηνάς Δασυγένης)](https://www.youtube.com/playlist?list=PLl2orJCvV3b4_RDSj4110lcAsHl-rlc1e)
 
 - [Αρχιτεκτονική Υπολογιστών (ΕΚΠΑ)](http://architecture.di.uoa.gr/About.html)
 
-
+- [Αρχιτεκτονική Η/Υ ΙΙ (Νίκος Πετρέλλης)](https://www.youtube.com/watch?v=OOOsLuRujPE)
 
 ## Μικροεπεξεργαστές
