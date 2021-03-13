@@ -15,3 +15,5 @@
 - [Ψηφιακά Συστήματα Ι (ΤΕΙ Δυτικής Ελλάδας)](http://delos.teiwest.gr/opendelos/search?crs=57c1e949)
 
 - [Introduction to Information Theory](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory)
+
+- [Συχνά λάθη στις εξετάσεις](https://cdn.discordapp.com/attachments/645587720860598282/817170290009309255/arxes_syxna_lathi.doc)
