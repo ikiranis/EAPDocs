@@ -40,8 +40,12 @@
 
 - [Αρχιτεκτονική Υπολογιστών (ΕΚΠΑ)](http://architecture.di.uoa.gr/About.html)
 
-- [Αρχιτεκτονική Η/Υ ΙΙ (Νίκος Πετρέλλης)](https://www.youtube.com/watch?v=OOOsLuRujPE)
+- [Αρχιτεκτονική Η/Υ ΙΙ - σειρά από video (Νίκος Πετρέλλης)](https://www.youtube.com/watch?v=OOOsLuRujPE)
 
 - [IEEE 754 Calculator](http://weitz.de/ieee/)
+
+- [Διαφάνειες διαλέξεων για αρχιτεκτονική](https://ceidnotes.net/notes/Αρχιτεκτονική+Υπολογιστών+Ι/Διαφάνειες+Διαλέξεων)
+
+- [Βιβλία για αρχιτεκτική](https://www.ceid.upatras.gr/webpages/tca-lab/nikolos_en/Arch-book.htm)
 
 ## Μικροεπεξεργαστές
