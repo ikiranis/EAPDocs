@@ -16,4 +16,7 @@
 
 ## Λειτουργικά Συστήματα
 
+- [Βιβλιογραφία](https://kontopodis.edu.gr/Ready/Lib_HTML/Leitourg.html)
+- [Τεχνολογία Υπολογιστικών Συστημάτων & Λειτουργικά Συστήματα. Γ΄ Τάξη Ενιαίου Λυκείου](http://www.pi-schools.gr/content/index.php?lesson_id=1&ep=67&c_id=281)
+- [Διαλέξεις στα Λειτουργικά Συστήματα (ΠΑΜΑΚ)](http://opencourses.uom.gr/courses/efarmosmenhs-plhroforikhs/79-leitoyrgika-systhmata/enothtes/140-diergasiakh-epikoinonia-1?vid=166&vtp=1080)
  
