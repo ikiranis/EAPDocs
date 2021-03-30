@@ -1,5 +1,7 @@
 # ΠΛΗ11 [Αρχές Τεχνολογίας Λογισμικού](https://www.eap.gr/education/undergraduate/computer-science/topics/#arxes_logismikou)
 
+- [Παλιό site του ΕΑΠ για την ΠΛΗ11](http://edu.eap.gr/pli/pli11/students/yliko.htm)
+
 ## Τεχνολογία Λογισμικού
 
 - [Εισαγωγή στα Πληροφοριακά Συστήματα (Πανεπιστήμιο Πάτρας)](https://eclass.upatras.gr/courses/DEAPT127/)
