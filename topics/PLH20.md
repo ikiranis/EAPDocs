@@ -15,3 +15,5 @@
 - [Αλγοριθμική θεωρία γραφημάτων (βιβλίο)](https://repository.kallipos.gr/handle/11419/2067)
 
 - [Θεωρία Γραφημάτων και Εφαρμογές (video playlist)](https://www.youtube.com/playlist?list=PLB8VXMjsTRosD2VAU3oJ_yZBJBVGawH00)
+
+- [Graph Online. Create graph and find the shortest path (tool)](https://graphonline.ru/en/)
