@@ -54,4 +54,5 @@
 
 ## Μικροεπεξεργαστές
 
+- Πως Λειτουργεί ο μικρο-Επεξεργαστής (video) [1](https://youtu.be/91I7PZ1ogD0) [2](https://youtu.be/4ceYa6srUfY)
 - [8085 simulator](https://www.sim8085.com/)
