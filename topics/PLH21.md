@@ -57,13 +57,18 @@
 - Πως Λειτουργεί ο μικροεπεξεργαστής (video) [1](https://youtu.be/91I7PZ1ogD0) [2](https://youtu.be/4ceYa6srUfY)
 
 - [Συστήματα Μικροϋπολογιστών (Μετσόβιο Πολυτεχνείο)](https://ocw.aoc.ntua.gr/courses/ECE113/)
+  
 - [8085 Microprocessor (video playlist)](https://www.youtube.com/playlist?list=PL_m9J8TiK5mOIIkG6BuK6iw8rzk3Mkmwb)
 
-## 8085 Simulators
+### 8085 Simulators
 
 - [j8085sim (Java)](https://sourceforge.net/projects/j8085sim/)
+  
 - [8085 simulator (Java)](https://8085simulator.github.io/)
+  
 - [8085 simulator (web)](https://www.sim8085.com/)
+  
 - [GNUSim8085 (Linux/Windows)](http://gnusim8085.srid.ca/)
+  
 - 8005 simulator (Windows 7 κυρίως. Ίσως με προβλήματα στα Windows 10) [simA](https://mancloud.uom.gr/nextcloud/index.php/s/M5REYDQGKML7HGg) [simB](https://mancloud.uom.gr/nextcloud/index.php/s/PLgfmH6spRr5HSx)
 
