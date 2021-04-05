@@ -5,3 +5,5 @@
 - [Αντικειμενοστραφής Προγραμματισμός σε Java](https://www.youtube.com/playlist?list=PLPQ9mGt4tRsadCI0E4O8qeJqIKMlcO1GT)
 
 - [Java (συνδρομητική σειρά από Ψούνη)](https://www.youtube.com/watch?v=IUtABoesbCo&list=PLLMmbOLFy25EAtFb1xsUFL3gvKBYsv3kn)
+
+- [Agile Clinic](https://www.youtube.com/playlist?list=PLuswtImoIwq-GxhRcFo3VMK6sTBDNJ4ND)
