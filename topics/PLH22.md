@@ -24,4 +24,4 @@
 
 - [Introduction to Information Theory](https://www.complexityexplorer.org/courses/55-introduction-to-information-theory)
 
-- Αλγόριθμοι κωδικοποίησης (calculators) [Huffman](https://planetcalc.com/2481/) [Fano](https://planetcalc.com/8168/) [Shannon](https://planetcalc.com/8163/)
+- Αλγόριθμοι κωδικοποίησης (calculators) [Huffman](https://planetcalc.com/2481/) | [Fano](https://planetcalc.com/8168/) | [Shannon](https://planetcalc.com/8163/)

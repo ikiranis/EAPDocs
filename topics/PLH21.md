@@ -54,7 +54,7 @@
 
 ## Μικροεπεξεργαστές
 
-- Πως Λειτουργεί ο μικροεπεξεργαστής (video) [1](https://youtu.be/91I7PZ1ogD0) [2](https://youtu.be/4ceYa6srUfY)
+- Πως Λειτουργεί ο μικροεπεξεργαστής (video) [1](https://youtu.be/91I7PZ1ogD0), [2](https://youtu.be/4ceYa6srUfY)
 
 - [Συστήματα Μικροϋπολογιστών (Μετσόβιο Πολυτεχνείο)](https://ocw.aoc.ntua.gr/courses/ECE113/)
   
@@ -70,5 +70,4 @@
   
 - [GNUSim8085 (Linux/Windows)](http://gnusim8085.srid.ca/)
   
-- 8005 simulator (Windows 7 κυρίως. Ίσως με προβλήματα στα Windows 10) [simA](https://mancloud.uom.gr/nextcloud/index.php/s/M5REYDQGKML7HGg) [simB](https://mancloud.uom.gr/nextcloud/index.php/s/PLgfmH6spRr5HSx)
-
+- 8005 simulator (Windows 7 κυρίως. Ίσως με προβλήματα στα Windows 10) [simA](https://mancloud.uom.gr/nextcloud/index.php/s/M5REYDQGKML7HGg), [simB](https://mancloud.uom.gr/nextcloud/index.php/s/PLgfmH6spRr5HSx)
