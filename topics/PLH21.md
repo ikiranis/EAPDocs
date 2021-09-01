@@ -60,6 +60,10 @@
   
 - [8085 Microprocessor (video playlist)](https://www.youtube.com/playlist?list=PL_m9J8TiK5mOIIkG6BuK6iw8rzk3Mkmwb)
 
+- [Assembly language programs in 8085 microprocessor (video playlist)](https://www.youtube.com/playlist?list=PLndX8heiWwErijxt7FpnRilO2KV4UhFmN)
+
+- [Microprocessor & Interfacing 8085 (video playlist)](https://www.youtube.com/playlist?list=PLgwJf8NK-2e5vHwmowy_kGtjq9Ih0FzwN)
+
 ### 8085 Simulators
 
 - [j8085sim (Java)](https://sourceforge.net/projects/j8085sim/)
