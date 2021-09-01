@@ -46,6 +46,10 @@
 
 - [Μαθηματικά Γ' Λυκείου κατεύθυνσης (Συναρτήσεις, όρια)](https://www.youtube.com/playlist?list=PLZA-Wu2BXhF7d_HWEMWOdWUcommLqqMQi)
 
+## Στοιχεία Πιθανοτήτων και Στατιστικής
+
+- [Συλλογή εργαλείων υπολογισμού](https://homepage.divms.uiowa.edu/~mbognar/)
+
 ## Βοηθήματα
 
 - [Wolfram Alpha](https://www.wolframalpha.com/)
