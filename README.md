@@ -12,11 +12,15 @@
 
 ## Θεματικές ενότητες
 
+#### 1ο έτος
+
 - [ΠΛΗ10](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH10.md) Εισαγωγή στην Πληροφορική
 
 - [ΠΛΗ11](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH11.md) Αρχές Τεχνολογίας Λογισμικού
 
 - [ΠΛΗ12](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH12.md) Μαθηματικά για Πληροφορική Ι
+
+#### 2ο έτος
 
 - [ΠΛΗ20](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH20.md) Διακριτά Μαθηματικά και Μαθηματική Λογική
 
@@ -25,6 +29,8 @@
 - [ΠΛΗΨΙ](https://github.com/ikiranis/EAPDocs/blob/main/topics/ΠΛΗΨΙ.md) Εργαστήριο Ψηφιακών Συστημάτων
 
 - [ΠΛΗ22](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH22.md) Βασικά ζητήματα Δικτύων Η/Υ
+
+#### 3ο έτος
 
 - [ΠΛΗ24](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH24.md) Σχεδιασμός Λογισμικού
 
