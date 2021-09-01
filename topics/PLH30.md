@@ -6,6 +6,8 @@
 
 - Cormen - Introduction to Algorithms
 
+- [Αλγόριθμοι και πολυπλοκότητα (Δημήτρης Φωτάκης)]http://www.softlab.ntua.gr/~fotakis/data/algorithms.pdf)
+
 - Αλγόριθμοι & Πολυπλοκότητα - Αντιμετωπίζοντας την NP-πληρότητα (Διάλεξη)
 
     - [Μέρος 1ο](https://www.youtube.com/watch?v=Jdrc6TQFfdU)
