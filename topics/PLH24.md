@@ -2,6 +2,8 @@
 
 - [Αντικειμενοστραφής Προγραμματισμός, Εφαρμογές με χρήση της γλώσσας προγραμματισμού JAVA](https://courses.e-ce.uth.gr/MEPA21/doku.php?id=toc)
 
+- [Εισαγωγή στην Java (Mathesis)](https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS2.1+19D/course/)
+
 - [Αντικειμενοστραφής Προγραμματισμός σε Java](https://www.youtube.com/playlist?list=PLPQ9mGt4tRsadCI0E4O8qeJqIKMlcO1GT)
 
 - [Java (συνδρομητική σειρά από Ψούνη)](https://www.youtube.com/watch?v=IUtABoesbCo&list=PLLMmbOLFy25EAtFb1xsUFL3gvKBYsv3kn)
