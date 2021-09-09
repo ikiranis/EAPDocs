@@ -8,4 +8,6 @@
 
 - [Java (συνδρομητική σειρά από Ψούνη)](https://www.youtube.com/watch?v=IUtABoesbCo&list=PLLMmbOLFy25EAtFb1xsUFL3gvKBYsv3kn)
 
+- [Μια Γεύση από Java (ebook)](https://leanpub.com/JavaTaste)
+
 - [Agile Clinic](https://www.youtube.com/playlist?list=PLuswtImoIwq-GxhRcFo3VMK6sTBDNJ4ND)
