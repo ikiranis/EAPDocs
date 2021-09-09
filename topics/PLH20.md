@@ -2,6 +2,8 @@
 
 - [Ψούνης ΠΛΗ20](http://www.psounis.gr/plh20.html)
 
+- [Διακριτά Μαθηματικά - Πανεπιστήμιο Πατρών (CEID)](https://eclass.upatras.gr/modules/video/index.php?course=CEID1062&cat_id=117)
+
 - David J. Hunter - Essentials Of Discrete Mathematics (2015, Jones & Bartlett Learning)
 
 - [Calculator για προτασιακή λογική](https://www.erpelstolz.at/gateway/formular-uk-zentral.html)
