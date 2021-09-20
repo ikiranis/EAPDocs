@@ -8,6 +8,8 @@
 
 - [Αλγόριθμοι και πολυπλοκότητα (Δημήτρης Φωτάκης)](http://www.softlab.ntua.gr/~fotakis/data/algorithms.pdf)
 
+- [Αλγόριθμοι και πολυπλοκότητα (video playlist από Τμήμα Πληροφορικής και Τηλεματικής του Χαροκοπείου Πανεπιστημίου)](https://www.youtube.com/playlist?list=PLJ2mYTGo-5t7PJiv9vIIjyVV_GgS51lCB)
+
 - Αλγόριθμοι & Πολυπλοκότητα - Αντιμετωπίζοντας την NP-πληρότητα (Διάλεξη)
 
     - [Μέρος 1ο](https://www.youtube.com/watch?v=Jdrc6TQFfdU)
