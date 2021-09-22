@@ -10,10 +10,4 @@
 
 - [Αλγόριθμοι και πολυπλοκότητα (video playlist από Τμήμα Πληροφορικής και Τηλεματικής του Χαροκοπείου Πανεπιστημίου)](https://www.youtube.com/playlist?list=PLJ2mYTGo-5t7PJiv9vIIjyVV_GgS51lCB)
 
-- Αλγόριθμοι & Πολυπλοκότητα - Αντιμετωπίζοντας την NP-πληρότητα (Διάλεξη)
-
-    - [Μέρος 1ο](https://www.youtube.com/watch?v=Jdrc6TQFfdU)
-
-    - [Μέρος 2ο](https://www.youtube.com/watch?v=HWbSY-Arp1o)
-
-    - [Μέρος 3ο](https://www.youtube.com/watch?v=ZtA-tGobsss)
+- [Αλγόριθμοι και Πολυπλοκότητα (Δημήτριος Μιχαήλ)](https://www.youtube.com/playlist?list=PLJ2mYTGo-5t7PJiv9vIIjyVV_GgS51lCB)
