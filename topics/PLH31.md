@@ -2,6 +2,8 @@
 
 - [Ψούνης ΠΛΗ31](http://www.psounis.gr/plh31.html)
 
+- [Τεχνητή Νοημοσύνη (Μανώλης Κουμπαράκης, Παναγιώτης Σταματόπουλος)](https://opencourses.uoa.gr/courses/DI115/)
+
 - [Τεχνητή Νοημοσύνη Ι (Ανοικτό Μάθημα)](https://opencourses.gr/opencourse.xhtml?id=15392&ln=el)
 
 - [Τεχνητή Νοημοσύνη ΙΙ](https://opencourses.gr/opencourse.xhtml?id=15405&ln=el)
