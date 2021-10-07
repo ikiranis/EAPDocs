@@ -11,3 +11,5 @@
 - [Αλγόριθμοι και πολυπλοκότητα (video playlist από Τμήμα Πληροφορικής και Τηλεματικής του Χαροκοπείου Πανεπιστημίου)](https://www.youtube.com/playlist?list=PLJ2mYTGo-5t7PJiv9vIIjyVV_GgS51lCB)
 
 - [Αλγόριθμοι και Πολυπλοκότητα - Βιντεομάθημα (Ευστάθιος Ζάχος, Δημήτρης Φωτάκης)](https://ocw.aoc.ntua.gr/courses/ECE143/)
+
+- [Αλγοριθμική θεωρία γραφημάτων (e-book)](https://repository.kallipos.gr/handle/11419/2067)
