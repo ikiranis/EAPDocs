@@ -12,6 +12,8 @@
 
 - [Discrete Mathematics (video playlist)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3)
 
+- [Διακριτά Μαθηματικά (Δημήτρης Φωτάκης)](http://www.softlab.ntua.gr/~fotakis/discrete_math/)
+
 ## Θεωρία γραφημάτων
 
 - [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
