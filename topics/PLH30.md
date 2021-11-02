@@ -13,3 +13,5 @@
 - [Αλγόριθμοι και Πολυπλοκότητα - Βιντεομάθημα (Ευστάθιος Ζάχος, Δημήτρης Φωτάκης)](https://ocw.aoc.ntua.gr/courses/ECE143/)
 
 - [Αλγοριθμική θεωρία γραφημάτων (e-book)](https://repository.kallipos.gr/handle/11419/2067)
+
+- [Algorithms Full Course - Design and Analysis of Algorithms](https://www.youtube.com/watch?v=D6Q_wHrzxDs)
