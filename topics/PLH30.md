@@ -2,6 +2,8 @@
 
 - [Ψούνης ΠΛΗ30](http://www.psounis.gr/plh30.html)
 
+## Αλγόριθμοι και Πολυπλοκότητα
+
 - [Kleinberg/Tardos - Σχεδιασμός Αλγορίθμων](https://www.klidarithmos.gr/sxediasmos-algori8mwn)
 
 - [THOMAS H. CORMEN LEISERSON CHARLES E. RIVEST RONALD L. STEIN CLIFFORD - Εισαγωγή στους αλγόριθμους](https://www.cup.gr/book/isagogi-stous-algorithmous/)
@@ -15,3 +17,7 @@
 - [Αλγοριθμική θεωρία γραφημάτων (e-book)](https://repository.kallipos.gr/handle/11419/2067)
 
 - [Algorithms Full Course - Design and Analysis of Algorithms](https://www.youtube.com/watch?v=D6Q_wHrzxDs)
+
+## Θεωρία Υπολογισμού
+
+- [Θεωρία Υπολογισμού (Μαλλιαράκης Χρήστος)](https://www.youtube.com/playlist?list=PLB8VXMjsTRotuJkL5mwPqpxAsNCR5BoMG)
