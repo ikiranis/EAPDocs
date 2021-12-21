@@ -8,6 +8,8 @@
 
 - [THOMAS H. CORMEN LEISERSON CHARLES E. RIVEST RONALD L. STEIN CLIFFORD - Εισαγωγή στους αλγόριθμους](https://www.cup.gr/book/isagogi-stous-algorithmous/)
 
+- Λύσεις για ασκήσεις στο παραπάνω βιβλίο [1](https://walkccc.me/CLRS/Chap16/16.1/) [2](https://sites.math.rutgers.edu/~ajl213/CLRS/CLRS.html)
+
 - [Αλγόριθμοι και πολυπλοκότητα (Δημήτρης Φωτάκης)](http://www.softlab.ntua.gr/~fotakis/data/algorithms.pdf)
 
 - [Αλγόριθμοι και πολυπλοκότητα (video playlist από Τμήμα Πληροφορικής και Τηλεματικής του Χαροκοπείου Πανεπιστημίου)](https://www.youtube.com/playlist?list=PLJ2mYTGo-5t7PJiv9vIIjyVV_GgS51lCB)
@@ -21,3 +23,5 @@
 ## Θεωρία Υπολογισμού
 
 - [Θεωρία Υπολογισμού (Μαλλιαράκης Χρήστος)](https://www.youtube.com/playlist?list=PLB8VXMjsTRotuJkL5mwPqpxAsNCR5BoMG)
+
+- [MIT 18.404J Theory of Computation, Fall 2020 (Michael Sipser)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
