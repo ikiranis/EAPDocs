@@ -25,3 +25,7 @@
 - [Θεωρία Υπολογισμού (Μαλλιαράκης Χρήστος)](https://www.youtube.com/playlist?list=PLB8VXMjsTRotuJkL5mwPqpxAsNCR5BoMG)
 
 - [MIT 18.404J Theory of Computation, Fall 2020 (Michael Sipser)](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
+
+- [Automaton Simulator](https://automatonsimulator.com)
+
+- [Turing Machine Visualization](https://turingmachine.io)
