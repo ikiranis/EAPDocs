@@ -11,3 +11,5 @@
 - [Μια Γεύση από Java (ebook)](https://leanpub.com/JavaTaste)
 
 - [Agile Clinic](https://www.youtube.com/playlist?list=PLuswtImoIwq-GxhRcFo3VMK6sTBDNJ4ND)
+
+- [Διαλέξεις της ΠΛΗ24](https://www.youtube.com/playlist?list=PL8Prx4IjOaZZyCJakQutExaMKg9g99Ton)
