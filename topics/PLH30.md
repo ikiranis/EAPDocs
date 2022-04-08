@@ -30,4 +30,4 @@
 
 - [Turing Machine Visualization](https://turingmachine.io)
 
-- [Turing Machines + Decidability in 3 Hours (TM, Variants, Church-Turing, Decidability)](https://youtu.be/jB-aRCR41xc)
+- [Theory of Computation in 12 Hours](https://www.youtube.com/playlist?list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn)
