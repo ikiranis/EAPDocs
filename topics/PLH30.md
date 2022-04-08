@@ -29,3 +29,5 @@
 - [Automaton Simulator](https://automatonsimulator.com)
 
 - [Turing Machine Visualization](https://turingmachine.io)
+
+- [Turing Machines + Decidability in 3 Hours (TM, Variants, Church-Turing, Decidability)](https://youtu.be/jB-aRCR41xc)
