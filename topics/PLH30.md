@@ -30,4 +30,6 @@
 
 - [Turing Machine Visualization](https://turingmachine.io)
 
+- [Turing Machine Simulator](https://www.turing-simulator.com)
+
 - [Theory of Computation in 12 Hours](https://www.youtube.com/playlist?list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn)
