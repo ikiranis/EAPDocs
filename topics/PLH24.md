@@ -13,3 +13,7 @@
 - [Agile Clinic](https://www.youtube.com/playlist?list=PLuswtImoIwq-GxhRcFo3VMK6sTBDNJ4ND)
 
 - [Διαλέξεις της ΠΛΗ24](https://www.youtube.com/playlist?list=PL8Prx4IjOaZZyCJakQutExaMKg9g99Ton)
+
+### Περιγραφές της ενότητας από φοιτητές που τις έχουν τελειώσει
+
+- [Κυράνης Γιάννης](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH24/report1.md)
