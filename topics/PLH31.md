@@ -16,3 +16,8 @@
 
 - [Βαθιά Νευρωνικά Δίκτυα από το Μηδέν (Nihilist's Lab)](https://www.youtube.com/playlist?list=PLdw84HG7OJvZm2Y3q4fyvcly6Rt-Uu5HM)
 
+### Περιγραφές της ενότητας από φοιτητές που την έχουν τελειώσει
+
+- [Δρακόπουλος Ανδρέας](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH31/report1.md)
+
+
