@@ -4,8 +4,6 @@
 
 - [Διαλέξεις στα Ψηφιακά Συστήματα](https://openclass.teiwm.gr/courses/BA-G111/)
 
-- [Digital Logic Courses](http://www.play-hookey.com/digital/)
-
 - [Γενικότερα χρήσιμο web-site για Algorithm Animations & Visualizations](http://www.hig.no/~algmet/animate.html)
 
 - [Error correction. Hamming codes, how to overcome noise](https://www.youtube.com/watch?v=X8jsijhllIA)
