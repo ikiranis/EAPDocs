@@ -10,6 +10,8 @@
 
 - [Μαθηματικά για την Πληροφορική Ι (παλιό site του ΕΑΠ για την ΠΛΗ12)](http://edu.eap.gr/pli/pli12)
 
+- [Προκαταρκτικά Μαθήματα ΠΛΗ12](https://www.youtube.com/playlist?list=PLtFYzzwqJiQddwuTewFtql3q7ovZykwiC)
+
 ## Γραμμική Άλγεβρα
 
 - [Βιντεομαθήματα Γραμμικής Άλγεβρας](https://www.youtube.com/watch?v=ZH4_UkQdKZg&list=PLUTsaTQytZV4M5GgNe73gnX85ZIbvDcoc)
