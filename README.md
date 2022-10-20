@@ -38,6 +38,10 @@
 
 - [ΠΛΗ31](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH31.md) Τεχνητή Νοημοσύνη – Εφαρμογές
 
+#### 4ο έτος
+
+- [ΠΛΗ47](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH47.md) Κατανεμημένα Συστήματα Λογισμικού
+
 ## [Μετά το ΕΑΠ](https://github.com/ikiranis/EAPDocs/blob/main/after/index.md)
 
 ## Contribution
