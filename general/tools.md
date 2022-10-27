@@ -18,6 +18,8 @@
 
 - [Δημιουργία διαγραμμάτων Gantt (ΠΛΗ11)](http://gantt.apps4net.eu/)
 
+- [GanttProject](https://www.ganttproject.biz)
+
 - Εργαλεία για σχεδίαση λογικών κυκλωμάτων
   
     - [circuitverse](https://circuitverse.org/)
