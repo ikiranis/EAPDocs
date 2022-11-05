@@ -34,7 +34,7 @@
 
 - [Γραμμική Άλγεβρα Ι](https://opencourses.uoa.gr/courses/MATH12/)
 
-- [Essence of linear algebra preview (videos)](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+- [Essence of linear algebra (videos)](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
 
 ## Λογισμός μιας Μεταβλητής
 
