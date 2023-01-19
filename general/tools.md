@@ -1,5 +1,7 @@
 # Γενικά χρήσιμα εργαλεία
 
+- [chatGPT (AI εργαλείο)](https://chat.openai.com/chat)
+
 - [MS Office](https://www.microsoft.com/el-gr/microsoft-365/microsoft-office)
 
 - [Libre Office](https://www.libreoffice.org/)
