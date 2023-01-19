@@ -14,6 +14,8 @@
 
 #### 1ο έτος
 
+- [ΠΛΗΠΡΟ](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLHPRO.md) Προγραμματισμός
+
 - [ΠΛΗ10](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH10.md) Εισαγωγή στην Πληροφορική
 
 - [ΠΛΗ11](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH11.md) Αρχές Τεχνολογίας Λογισμικού
