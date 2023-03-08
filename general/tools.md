@@ -14,6 +14,8 @@
 
 - [Addon για το Word, για γράψιμο εξισώσεων](https://appsource.microsoft.com/el-gr/product/office/WA104380646?src=office&tab=Overview)
 
+- [Mathpix: Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more](https://mathpix.com)
+
 - [Cheat sheet για τον equation editor του MS Word (τα ίδια παίζουν και σε onlyoffice)](https://www.cs.bgu.ac.il/~khitron/Equation%20Editor.pdf)
 
 - [diagrams.net (πρώην draw.io)](https://app.diagrams.net/)
