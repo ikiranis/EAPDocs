@@ -20,6 +20,8 @@
 
 - [Prolog Tutorial (video)](https://www.youtube.com/watch?v=SykxWpFwMGs)
 
+- [Minimax and Alpha-Beta Prunning simulator](https://raphsilva.github.io/utilities/minimax_simulator/#)
+
 ### Περιγραφές της ενότητας από φοιτητές που την έχουν τελειώσει
 
 - [Δρακόπουλος Ανδρέας](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH31/report1.md)
