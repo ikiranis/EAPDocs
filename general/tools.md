@@ -34,6 +34,6 @@
 
 - [SpeedCrunch (Calculator)](http://speedcrunch.org/)
 
-- [Calculator](https://www.calculator.net/)
+- [Calculator (πλήθος ειδικών calculators για διάφορες περιπτώσεις υπολογισμών)](https://www.calculator.net/)
 
 - [Mysql Workbench (εργαλείο σχεδίασης βάσεων δεδομένων)](https://www.mysql.com/products/workbench/)
