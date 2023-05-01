@@ -6,7 +6,7 @@
 
 ## Γενικά
 
-- [Εργαλεία](https://github.com/ikiranis/EAPDocs/blob/main/general/tools.md)
+- [Εργαλεία](/general/tools.md)
 
 - [ΠΛΗ](https://github.com/ikiranis/EAPDocs/blob/main/general/PLH.md)
 
