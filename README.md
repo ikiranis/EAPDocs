@@ -42,6 +42,8 @@
 
 #### 4ο έτος
 
+- [ΠΛΗ37](https://github.com/stamvas/EAPDocs/blob/main/topics/PLH37.md) Πληροφορική και Εκπαίδευση
+
 - [ΠΛΗ47](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH47.md) Κατανεμημένα Συστήματα Λογισμικού
 
 ## [Μετά το ΕΑΠ](https://github.com/ikiranis/EAPDocs/blob/main/after/index.md)
