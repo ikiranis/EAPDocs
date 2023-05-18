@@ -4,7 +4,7 @@
 
 ## Αλγόριθμοι και Πολυπλοκότητα
 
-- [Kleinberg/Tardos - Σχεδιασμός Αλγορίθμων](https://www.klidarithmos.gr/sxediasmos-algori8mwn)
+- [Kleinberg/Tardos - Σχεδιασμός Αλγορίθμων](https://www.klidarithmos.gr/sxediasmos-algori8mwn) -> [Λύσεις των ασκήσεων](https://github.com/mathiasuy/Soluciones-Klenberg)
 
 - [THOMAS H. CORMEN LEISERSON CHARLES E. RIVEST RONALD L. STEIN CLIFFORD - Εισαγωγή στους αλγόριθμους](https://www.cup.gr/book/isagogi-stous-algorithmous/)
 
@@ -33,3 +33,5 @@
 - [Turing Machine Simulator](https://www.turing-simulator.com)
 
 - [Theory of Computation in 12 Hours](https://www.youtube.com/playlist?list=PLylTVsqZiRXPU09ULWGfXYsEtw-Qtq0Yn)
+
+- [Λύσεις](https://github.com/gaurangsaini/sipser-computation-3rd-solutions) για το βιβλίο [Michael Sipser - Εισαγωγή στη θεωρία υπολογισμού](https://www.cup.gr/book/eisagogi-sti-theoria-ypologis-oy-metafrasi-tis-3is-diethnoys-ekdosis/) (αφορά την αγγλική έκδοση)
