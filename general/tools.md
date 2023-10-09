@@ -16,7 +16,7 @@
 
 - [Mathpix: Convert images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more](https://mathpix.com)
 
-- [Cheat sheet για τον equation editor του MS Word (τα ίδια παίζουν και σε onlyoffice)](https://www.cs.bgu.ac.il/~khitron/Equation%20Editor.pdf)
+- [Cheat sheet για τον equation editor του MS Word (τα ίδια παίζουν και σε onlyoffice)](https://www.pickupbrain.com/ms-word/equation-editor-shortcut-word/)
 
 - [diagrams.net (πρώην draw.io)](https://app.diagrams.net/)
 
