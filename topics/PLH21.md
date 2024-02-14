@@ -72,4 +72,4 @@
   
 - [GNUSim8085 (Linux/Windows)](http://gnusim8085.srid.ca/)
   
-- 8005 simulator (Windows 7 κυρίως. Ίσως με προβλήματα στα Windows 10) [simA](https://mancloud.uom.gr/nextcloud/index.php/s/M5REYDQGKML7HGg), [simB](https://mancloud.uom.gr/nextcloud/index.php/s/PLgfmH6spRr5HSx)
+- 8085 simulator (Windows 7 κυρίως. Ίσως με προβλήματα στα Windows 10) [simA](https://mancloud.uom.gr/nextcloud/index.php/s/M5REYDQGKML7HGg), [simB](https://mancloud.uom.gr/nextcloud/index.php/s/PLgfmH6spRr5HSx)
