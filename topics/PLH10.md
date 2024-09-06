@@ -15,3 +15,7 @@
 - [Δομές δεδομένων (βιβλίο)](https://repository.kallipos.gr/handle/11419/6217)
 - Αλγόριθμοι [1](https://www.hackerearth.com/practice/algorithms), [2](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 - [Δομές δεδομένων σε C (Ψούνης)](https://www.youtube.com/playlist?list=PLLMmbOLFy25F2Nj2bOzZL7XSxEXEenBWK)
+
+### C
+
+[Συλλογή από βασικούς αλγόριθμους στην C](https://github.com/konstasol/C_LIBRARY_IN_GREEK_FOR_BEGINNERS-)
