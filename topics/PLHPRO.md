@@ -5,4 +5,7 @@
 - [Python (Δημήτρης Ψούνης)](https://www.youtube.com/playlist?list=PLLMmbOLFy25Eohpgb_V3GWKdf8sL0Upvt)
 - [Εισαγωγή στην Python (Νίκος Αβούρης)](https://mathesis.cup.gr/courses/course-v1:ComputerScience+CS1.1+20C/about)
 
+### Παραδείγματα από projects στην Python
+
+- [Project Γενετικός Αλγόριθμος](https://github.com/konstasol/GENETIC-ALGORITHM-in-PYTHON-MAXIMIZE-FUNCTION)
 
