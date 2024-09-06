@@ -18,4 +18,4 @@
 
 ### C
 
-[Συλλογή από βασικούς αλγόριθμους στην C](https://github.com/konstasol/C_LIBRARY_IN_GREEK_FOR_BEGINNERS-)
+- [Συλλογή από βασικούς αλγόριθμους στην C](https://github.com/konstasol/C_LIBRARY_IN_GREEK_FOR_BEGINNERS-)
