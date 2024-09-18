@@ -16,4 +16,4 @@
 
 ### Περιγραφές της ενότητας από φοιτητές που την έχουν τελειώσει
 
-- [Κυράνης Γιάννης](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH24/report1.md)
+- [Κυράνης Γιάννης](/topics/PLH24/report1.md)
