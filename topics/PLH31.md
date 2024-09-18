@@ -24,6 +24,6 @@
 
 ### Περιγραφές της ενότητας από φοιτητές που την έχουν τελειώσει
 
-- [Δρακόπουλος Ανδρέας](https://github.com/ikiranis/EAPDocs/blob/main/topics/PLH31/report1.md)
+- [Δρακόπουλος Ανδρέας](/topics/PLH31/report1.md)
 
 
