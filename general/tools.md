@@ -31,6 +31,8 @@
     - [logic](https://logic.ly/)
 
     - [cburch.com](http://www.cburch.com/logisim/el/index.html)
+ 
+    - [Generate diagrams from markdown-like text](https://github.com/mermaid-js/mermaid)
 
 - [SpeedCrunch (Calculator)](http://speedcrunch.org/)
 
