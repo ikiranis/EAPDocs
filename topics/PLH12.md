@@ -64,6 +64,8 @@
 
 - [Παραγοντοποίηση](https://www.mathpapa.com/factoring-calculator/)
 
+- [Microsoft Math Solver](https://mathsolver.microsoft.com)
+
 ## Λεξικά
 
 - [Λεξικό Βασικών Όρων](http://ph113.edu.physics.uoc.gr/files/113-lexiko.pdf)
