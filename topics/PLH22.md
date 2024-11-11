@@ -10,6 +10,8 @@
 
 - [Computer Networks](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgMCUAG0XRw78UA8qnv6jEx)
 
+- [Κανάλι του Jim Kurose στο youtube](https://www.youtube.com/@JimKurose/videos)
+
 ## Ψηφιακές Επικοινωνίες
 
 - [Σήματα και Συστήματα](https://opencourses.uoa.gr/courses/DI45/)
