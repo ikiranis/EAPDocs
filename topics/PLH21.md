@@ -44,7 +44,7 @@
 
 - [Διαφάνειες διαλέξεων για αρχιτεκτονική](https://ceidnotes.net/notes/Αρχιτεκτονική+Υπολογιστών+Ι/Διαφάνειες+Διαλέξεων)
 
-- [Βιβλία για αρχιτεκτική](https://www.ceid.upatras.gr/webpages/tca-lab/nikolos_en/Arch-book.htm)
+- [Βιβλία για αρχιτεκτονική](https://www.ceid.upatras.gr/webpages/tca-lab/nikolos_en/Arch-book.htm)
 
 - [Computation Structures (MIT Course)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2017/index.htm)
 
